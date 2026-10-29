@@ -1,0 +1,22 @@
+{
+  "name": "albion-online-activity-toolkit",
+  "displayName": "Albion Online Activity Toolkit",
+  "programType": "activity-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Activity notes",
+    "Character profiles",
+    "Resource records"
+  ],
+  "topics": [
+    "albion-online-activity-toolkit",
+    "albion-online-tools",
+    "albion-online-menu",
+    "albion-online-settings",
+    "albion-online-configs",
+    "albion-online-activity-notes",
+    "albion-online-character-profiles"
+  ]
+}
